@@ -1,4 +1,4 @@
-<h1 align="center">InfoMovie</h1>
-<p align="center">Um contador simples em Java que exibe o número, um botão para incrementar, subtrair e resetar.</p>
+<h1 align="center">Notepad</h1>
+<p align="center">Uma versão do Bloco de Notas feito em Java Swing.</p>
 
 
